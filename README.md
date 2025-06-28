@@ -150,19 +150,3 @@ A swap is allowed only if:
 - Spring Security is used for all protected endpoints
 
 ---
-
-## 🚧 TODO (Optional Enhancements)
-
-- Book image uploads
-- Messaging between users
-- Admin panel for reporting & moderation
-- ElasticSearch-based search
-
----
-
-## 📬 Contact
-
-Created by [Your Name]  
-Email: `your_email@gmail.com`
-
-Contributions are welcome!
