@@ -1,4 +1,4 @@
-# 📚 EduReuse – Book Swap & Donation Platform
+# 📚 EduReuse – Book Swap, Sell & Donation Platform
 
 EduReuse is a web-based platform that allows users to donate, sell, or swap used school books (classes 1–12). The system supports secure user registration, book and book set listing, and a full swap request system with conditions and validations.
 
